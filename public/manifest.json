@@ -3,7 +3,7 @@
     "short_name": "Budget",
     "theme_color": "#dddddd",
     "background_color": "#dddddd",
-    "start_url": "./index.html",
+    "start_url": "/index.html",
     "display": "browser",
     "icons": [
         {
